@@ -63,8 +63,8 @@
 
 <div align="center">
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar0303&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar0303&layout=compact&theme=tokyonight&hide_border=true)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar1103&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar1103&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
