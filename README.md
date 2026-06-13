@@ -14,7 +14,7 @@
 
 ---
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Iun7iOAito/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/allenTheAlien/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-628b93364/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShivamKumar0303)
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Iun7iOAito?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/Iun7iOAito/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Iun7iOAito?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/allenTheAlien/)
 
 </div>
 
